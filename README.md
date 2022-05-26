@@ -1,7 +1,3 @@
-# Ad-Classifier
+# Clasificador Automático de Anuncios de Revolico 
 
-Revolico es un portal de anuncios clasiﬁcados para la compra-venta en Cuba. Es  muy comun que las personas a la hora de clasificar 
-sus anuncios se equivoquen y lo clasifiquen incorrectamente, lo que trae consigo que los usuarios no encuentren bien sus anuncio.
-El presente trabajo se plantea la implementación de un software que permita clasiﬁcar anuncios de Revolico de manera automática.
-La clasiﬁcación automática de anuncios publicitarios es una rama de la clasiﬁcación de textos y se quiere dar solucion al problema
-usando redes neuronales.
+Revolico es un portal de anuncios clasificados para la compra-venta en Cuba. Es muy común que las personas a la hora de clasificar sus anuncios se equivoquen y lo clasifiquen incorrectamente, lo que trae consigo que los usuarios no encuentren bien sus anuncios. El presente trabajo se plantea la implementación de un software que permita clasificar anuncios de Revolico de manera automática. La clasificación automática de anuncios publicitarios es una rama de la clasificación de textos y se quiere dar solución al problema usando redes neuronales.
